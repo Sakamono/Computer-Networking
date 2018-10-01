@@ -1,0 +1,5 @@
+assignment1/venv/*
+.DS_Store
+*.png
+assignment1/__pycache__/*
+assignment1/.idea/*

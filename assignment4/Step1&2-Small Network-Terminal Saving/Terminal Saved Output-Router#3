@@ -1,0 +1,253 @@
+Last login: Mon Nov 19 10:37:28 on ttys002
+was-MacBook-Pro:code zhangxiaoyu$ python start_router.py config/small-3
+Router # 3 State # 0 2018-11-19 10:38:47
+Received new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	2	50
+
+
+
+Router # 3 State # 1 2018-11-19 10:38:47
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	5
+
+
+
+Router # 3 State # 2 2018-11-19 10:38:47
+Received neighbor's new distance vector and forwarding table hasn't changed.
+
+
+Router # 3 State # 3 2018-11-19 10:42:43
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	7
+
+
+
+Router # 3 State # 4 2018-11-19 10:42:44
+Received neighbor's new distance vector and forwarding table hasn't changed.
+
+
+Router # 3 State # 5 2018-11-19 10:43:10
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	9
+
+
+
+Router # 3 State # 6 2018-11-19 10:43:38
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	11
+
+
+
+Router # 3 State # 7 2018-11-19 10:44:08
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	13
+
+
+
+Router # 3 State # 8 2018-11-19 10:44:33
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	15
+
+
+
+Router # 3 State # 9 2018-11-19 10:45:01
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	17
+
+
+
+Router # 3 State # 10 2018-11-19 10:45:30
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	19
+
+
+
+Router # 3 State # 11 2018-11-19 10:45:57
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	21
+
+
+
+Router # 3 State # 12 2018-11-19 10:46:22
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	23
+
+
+
+Router # 3 State # 13 2018-11-19 10:46:47
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	25
+
+
+
+Router # 3 State # 14 2018-11-19 10:47:11
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	27
+
+
+
+Router # 3 State # 15 2018-11-19 10:47:42
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	29
+
+
+
+Router # 3 State # 16 2018-11-19 10:48:15
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	31
+
+
+
+Router # 3 State # 17 2018-11-19 10:48:44
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	33
+
+
+
+Router # 3 State # 18 2018-11-19 10:49:12
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	35
+
+
+
+Router # 3 State # 19 2018-11-19 10:49:40
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	37
+
+
+
+Router # 3 State # 20 2018-11-19 10:50:07
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	39
+
+
+
+Router # 3 State # 21 2018-11-19 10:50:34
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	41
+
+
+
+Router # 3 State # 22 2018-11-19 10:51:02
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	43
+
+
+
+Router # 3 State # 23 2018-11-19 10:51:30
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	45
+
+
+
+Router # 3 State # 24 2018-11-19 10:51:57
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	47
+
+
+
+Router # 3 State # 25 2018-11-19 10:52:26
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	49
+
+
+
+Router # 3 State # 26 2018-11-19 10:52:55
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	2	50
+
+
+
+Router # 3 State # 27 2018-11-19 10:53:22
+Received neighbor's new distance vector and forwarding table hasn't changed.
+
+
+Router # 3 State # 28 2018-11-19 11:12:40
+Received neighbor's new distance vector and forwarding table has changed.
+Sent updated forwarding table to neighbors:
+ID	NextHop	Cost
+1	1	1
+2	1	5
+
+
+
+Router # 3 State # 29 2018-11-19 11:12:46
+Received neighbor's new distance vector and forwarding table hasn't changed.
+
+
+
